@@ -190,3 +190,5 @@ Feel free to submit suggestions, improvements, or create pull requests.
 
 Contact
 Shivu N S
+LinkedIn: linkedin.com/in/shivannan  
+GitHub: github.com/ShivannaN
